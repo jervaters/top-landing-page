@@ -103,7 +103,11 @@ ul {
     background-color: grey;
     color: white;
     flex: 1 1 calc(40%);
-    min-width: 200px    
+    min-width: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+     
 }
 
 .container-random {
