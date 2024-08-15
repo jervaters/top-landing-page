@@ -214,11 +214,8 @@ ul {
     text-align: center;
     display: flex;
     align-items: center;
-    
-    
+    margin-top: 100px;
 }
-
-
 
 .container-footer p {
     margin: 0;
